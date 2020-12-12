@@ -1,18 +1,25 @@
-### Hi there 👋
-
 <!--
 **StraysWonderland/StraysWonderland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi, I'm Stray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=strayswonderland&hide=contribs,prs)
+<!-- Also feel free to update second URL to any URL -->
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=strayswonderland&count_private=true&include_all_commits=true&theme=radical)]
+
+## Connect with me:
+<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+<!-- This section you create this variables that are used above -->
+[website]: https://google.com
+[twitter]: https://twitter.com/indrajeet_nikam
+[linkedin]: http://www.linkedin.com/in/cagri-tasci-97b3b1167
+[xing]: https://www.xing.com/profile/Cagri_Tasci2/cv
+
+
