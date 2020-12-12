@@ -6,7 +6,9 @@
 
 
 <!-- Also feel free to update second URL to any URL -->
-[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=strayswonderland&count_private=true&include_all_commits=true&theme=radical)]
+[![Indrajeet's github stats](https://github-readme-stats.vercel.app/api?username=strayswonderland&count_private=true&include_all_commits=true&theme=dracula&show_icons=true)]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strayswonderland&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with me:
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
