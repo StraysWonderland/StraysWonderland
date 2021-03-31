@@ -8,13 +8,14 @@
 <!-- Also feel free to update second URL to any URL -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=strayswonderland&count_private=true&include_all_commits=true&theme=dracula&show_icons=true)" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=strayswonderland&count_private=true&theme=tokyonight&show_icons=true)" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strayswonderland&theme=dracula&layout=compact" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strayswonderland&theme=tokyonight&layout=compact" />
 </a>
 
 ## Connect with me:
+
 <!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
