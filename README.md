@@ -16,7 +16,7 @@
 
 <br />
 
-[linkedin]: http://www.linkedin.com/in/cagri-tasci-97b3b1167
+[linkedin]: https://linkedin.com/in/cagri-tasci
 [xing]: https://www.xing.com/profile/Cagri_Tasci2/cv
 
 ### Technologies
