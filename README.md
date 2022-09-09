@@ -1,8 +1,8 @@
 <!--
 **StraysWonderland/StraysWonderland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+--->
 ## Hi, I'm Stray <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Text-Text-green?style=flat-square)]
+![https://de.linkedin.com/in/cagri-tasci/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 <!-- Also feel free to update second URL to any URL -->
