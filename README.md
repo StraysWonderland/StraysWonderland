@@ -5,14 +5,17 @@
 
 
 ### Connect with me:
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]-->
-[<img align="left" alt="codeSTACKr | LinkedIn" width="80px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
+<!---
+[![](https://img.shields.io/badge/-xing-000?&logo=xing)](https://www.xing.com/profile/Cagri_Tasci2/cv)
+[![](https://img.shields.io/badge/-linkedin-000?&logo=linkedin)](http://www.linkedin.com/in/cagri-tasci-97b3b1167)
+
+--->
+
+[<img align="left" alt="codeSTACKr | LinkedIn" height="30px" src="https://img.shields.io/badge/-linkedin-000?&logo=linkedin" />][linkedin]
+[<img align="left" alt="codeSTACKr | Xing" height="30px" src="https://img.shields.io/badge/-xing-000?&logo=xing" />][xing]
 
 <br />
 
-[website]: https://google.com
-[twitter]: https://twitter.com/indrajeet_nikam
 [linkedin]: http://www.linkedin.com/in/cagri-tasci-97b3b1167
 [xing]: https://www.xing.com/profile/Cagri_Tasci2/cv
 
