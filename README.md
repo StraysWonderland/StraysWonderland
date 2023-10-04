@@ -59,3 +59,4 @@
 </a>
 
 
+[![An image of @strayswonderland's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/strayswonderland)](https://holopin.io/@strayswonderland)
